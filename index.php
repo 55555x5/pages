@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="es">
   <head>
-    <title>PHP Test</title>
+    <title>7ort Pages</title>
   </head>
   <body>
     <header></header>
